@@ -1,10 +1,10 @@
 # Algo-Trading-MACD
-This repository hosts an Algorithmic Trading project which I built using the Moving Average Convergence Divergence strategy!
+This repository hosts a trading algorithm which I built using the Moving Average Convergence Divergence strategy, in Python!
 
 ## Overview
 - I have the extracted real time stock data from the latest version of the Yahoo Finance API
-- I have decided to run this algorithm on 3 desired securities, which differ based on volatility
-- I have constructed my own backtesting.py to evaluate the performance of the model
+- I have decided to run this algorithm on 3 desired securities, which differ based on volatility to prevent selection bias
+- I have constructed a "backtesting.py" file to evaluate the performance and efficacy of the model
 
 ## Setting Up
 git clone https://github.com/arnav0401/Algo-Trading-MACD
